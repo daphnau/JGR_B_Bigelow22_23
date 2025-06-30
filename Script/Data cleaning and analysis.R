@@ -1,5 +1,5 @@
 ####### Good Luck#######
-setwd("C:/Users/dafna/Desktop/For Github/this is it/Data")
+setwd("C:/Users/dafna/Desktop/Data_and_Analysis_Bigelow/JGR_B_Bigelow22_23/Data")
 dir()
 
 library(tidyr)
@@ -141,7 +141,7 @@ thermal_without_rain_and_high_wind_1sd <- thermal_data_with_wind_data %>%
   filter(exceeds_1sd == FALSE)
 
 #########
-###multi-year flux tower data analysis in a diffrent script###
+###multi-year flux tower data analysis in a different script###
 
 
 ###level 2 - tables combinations and data analysis for paper figures###
