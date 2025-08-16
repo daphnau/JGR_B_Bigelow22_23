@@ -32,7 +32,7 @@ This script:
 - Filters the thermal data by:
   - Removing rainy days, which distort the thermal signal.
   - Excluding data points with wind speeds greater than 1 standard deviation above the monthly average.
-- Processes the data starting at **line 181** to:
+- Processes the data starting at **line 155** to:
   - Compute means and variances
   - Merge the cleaned tables
 
