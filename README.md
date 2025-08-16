@@ -10,7 +10,7 @@ Investigators: Daphna Uni, Russell L. Scott, Mostafa Javadian, Joel Biederman, M
 Point of Contact:  daphnau@arizona.edu University of Arizona 
 
 ## Data availability
-All data files and the large datasets Mt.bigelow flux tower (AMF_US-MtB_BASE_HH_4-5) are deposited in Zenodo: [https://doi.org/10.5281/zenodo.15802813]
+All data files and the large datasets Mt.bigelow flux tower (AMF_US-MtB_BASE_HH_4-5) are deposited in Zenodo: [https://doi.org/10.5281/zenodo.16887687]
 
 
 ## Repository contents
